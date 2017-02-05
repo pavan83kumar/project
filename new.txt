@@ -1,1 +1,1 @@
-creating new file.
+This is the notepad file which is modified in the git project repository.
